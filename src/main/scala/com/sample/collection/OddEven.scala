@@ -1,3 +1,5 @@
+package com.sample.collection
+
 /**
   * Created by ssaha7714 on 20/07/17.
   */
